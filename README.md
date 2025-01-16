@@ -11,17 +11,20 @@ Technologies Used 🛠️
 HTML5: Markup structure for the application.
 CSS3: Custom styling, including dark mode support and modern aesthetics.
 JavaScript: Functionality for task management and dark mode toggle.
+
 How to Use 📝
 Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/enhanced-todo-app.git
+git clone https://github.com/sufyainp/todoList.git
 Open the project in any code editor.
 Launch index.html in a browser to start using the app.
+
 Future Enhancements 🚀
 Add a due date feature for tasks.
 Integrate local storage to persist tasks across sessions.
 Implement drag-and-drop functionality for task reordering.
+
 Contribution 🤝
 Feel free to fork the repository, submit issues, or make pull requests. Contributions are always welcome!
